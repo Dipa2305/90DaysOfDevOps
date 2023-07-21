@@ -1,0 +1,13 @@
+DevOps is a combination of software development (dev) and operations (ops).
+
+It is defined as a software engineering methodology which aims to integrate the 
+work of development teams and operations teams by faciliating a culture of 
+collaboration and shared responsibility.
+
+Automation : Automation in DevOps boosts speed, consistency, higher accuracy, reliability, and increases the number
+             of deliveries.
+Scaling :  A scalable DevOps means the system can expand automatically during a high workload and shrink back 
+           when the needs are reduced to normal. 
+
+DevOps is important because it's a software development and operations approach that enables faster development 
+of new products and easier maintenance of existing deployments.
